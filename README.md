@@ -1,4 +1,4 @@
-# Pomodoro Timer Web App
+# Pomodoro Timer
 
 ## Overview
 The Pomodoro Timer Web App is a simple and effective time management tool built using **React** and **Tailwind CSS**. It allows users to follow the Pomodoro Technique by alternating between focused work sessions and short breaks.
