@@ -23,12 +23,12 @@ The Pomodoro Timer Web App is a simple and effective time management tool built 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pomodoro-timer.git
+   git clone https://github.com/CodeDev-Alchemist/pomodoro.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd pomodoro-timer
+   cd pomodoro
    ```
 
 3. Install dependencies:
@@ -39,6 +39,8 @@ The Pomodoro Timer Web App is a simple and effective time management tool built 
 4. Start the development server:
    ```bash
    npm start
+   or
+   npm run dev
    ```
 
 The app will be available at `http://localhost:3000/`.
@@ -56,10 +58,8 @@ project-root
 │   │   └── PomodoroTimer.jsx
 │   ├── App.jsx
 │   ├── index.css
-│   └── index.js
-├── public
-│   ├── index.html
-│   └── favicon.ico
+│   └── main.jsx
+├── index.html
 ├── package.json
 └── README.md
 ```
